@@ -1,0 +1,37 @@
+_repo: Adieu---la-FranceFrance-Occidentalle_20441
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Lescarbot, Marc
+    alias: Lescarbot, Marc
+    birthdate: 1570
+    deathdate: 1641
+    gutenberg_agent_id: '25225'
+    url: http://www.gutenberg.org/2009/agents/25225
+    wikipedia:
+    - http://en.wikipedia.org/wiki/Marc_Lescarbot
+    - http://fr.wikipedia.org/wiki/Marc_Lescarbot
+description: ''
+gutenberg_bookshelf: FR Poésie
+gutenberg_issued: '2007-01-26'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '20441'
+language: fr
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Poetry'
+- !lcc 'PQ'
+title: 'Adieu à la France
+
+  Sur l''embarquement du sieur de Poutrincourt et de son
+
+  Équipage faisant voile en la terre de Canadas dicte la
+
+  France Occidentalle'
+url: http://www.gutenberg.org/ebooks/20441
