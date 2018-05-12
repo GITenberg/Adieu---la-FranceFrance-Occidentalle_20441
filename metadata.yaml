@@ -15,6 +15,8 @@ creator:
     - http://en.wikipedia.org/wiki/Marc_Lescarbot
     - http://fr.wikipedia.org/wiki/Marc_Lescarbot
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/20441#Adieu---la-FranceFrance-Occidentalle
 gutenberg_bookshelf: FR Poésie
 gutenberg_issued: '2007-01-26'
 gutenberg_type: Text
